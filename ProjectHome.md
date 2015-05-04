@@ -1,0 +1,1 @@
+Qt4 implementation of Evernote API
